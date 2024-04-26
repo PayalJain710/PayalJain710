@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Machine Learning,Deep Learning,NLP.**
+- 💬 Ask me about **Machine Learning,Deep Learning,NLP,Oops.**
 
 - 📫 How to reach me **payaljain7oct@gmail.com**
 
